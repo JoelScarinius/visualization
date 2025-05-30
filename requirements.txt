@@ -1,0 +1,22 @@
+# Core data manipulation packages
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization packages
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Rich terminal output
+rich>=13.3.0
+
+# Geographic data visualization
+geopandas>=0.13.0
+swemaps>=0.1.1  # For Swedish maps
+pyarrow>=14.0.0  # Required for Parquet file support
+
+# Interactive matplotlib widgets in Jupyter
+ipympl>=0.9.0  # Required for %matplotlib widget
+
+# Optional: Jupyter notebook support
+jupyterlab>=4.0.0
+notebook>=7.0.0
